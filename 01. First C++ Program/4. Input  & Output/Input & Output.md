@@ -4,7 +4,8 @@
 
  * Previously, We use `std::cout` which is use to print something to the console.
  * Basically, It takes input from the program (whatever we want to print, we have to write it there), if you notice that we mention `<<` this after writting **std::cout** & before writting 'Anything we want to print', `<<` this indicate that whatever we write `std::cout` takes it as an input & gives its output to the console by printing it there.
- * `std::cout` is the one way we have to get data from our program to console, there are many others,
+ * `std::cout` is the one way we have to get data from our program to console, there are many others;
+ 
 | stream | Purpose |
 | --- | ---|
 | `std::cout` | Printing data to the console (terminal) |
