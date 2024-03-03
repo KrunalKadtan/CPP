@@ -1,9 +1,11 @@
-* Boolean is a type that can store 2 states, `true` or `false`.
-* Booleans is use to make decision in program.
+# Booleans
 
-* Boolean store '1' as a **true** value & '0' as a **false** value.
+ * Boolean is a type that can store 2 states, `true` or `false`.
+ * Booleans is use to make decision in program.
 
-* Boolean occupies **8 bits** (1 Byte) in memory.
+ * Boolean store '1' as a **true** value & '0' as a **false** value.
 
-* A byte can store 256 different values.
-* Using it just to cover two states (true/false) is wasteful, especially for devices with hard memory constraints (think embedded devices).
+ * Boolean occupies **8 bits** (1 Byte) in memory.
+
+ * A byte can store 256 different values.
+ * Using it just to cover two states (true/false) is wasteful, especially for devices with hard memory constraints (think embedded devices).
