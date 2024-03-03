@@ -33,6 +33,7 @@ double number5 {3.498e-11};
 ```
 
 n (floating point) / 0 ---> Infinity (+/-)
+
 0.0 / 0.0 ---> NaN
 
 * Remember the suffixes when initializing floating point variables, otherwise the default will be double. [As we do in 2.4.1 (number1 & number3 --> suffix `f` & `L`)]
