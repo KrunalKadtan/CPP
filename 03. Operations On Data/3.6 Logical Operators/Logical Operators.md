@@ -3,8 +3,8 @@
  * These operators will work on boolean operands.
  * Operators :
 
- | | | |
- |---|---|---|
+ | | |
+ |---|---|
  | AND | `&&` |
  | OR | `\|\|` |
  | NOT | `!` |
