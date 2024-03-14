@@ -47,9 +47,7 @@
 | `setiosflags` | Sets specified `ios_base` flags. |
 | `setbase` | Changes the base used for integer I/O. |
 | `setfill` | Changes the fill character used for padding. |
-| `setprecision` | Sets the number of digits displayed for floating-point values. 
-| Manipulator | Description (Function Type) |
-|---|---|
+| `setprecision` | Sets the number of digits displayed for floating-point values |
 | `setw` | Changes the width of the next input/output field (function) |
 | `get_money` (C++11) | Parses a monetary value (function template) |
 | `put_money` (C++11) | Formats and outputs a monetary value (function template) |
