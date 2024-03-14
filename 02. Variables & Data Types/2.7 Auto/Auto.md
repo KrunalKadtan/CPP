@@ -16,7 +16,7 @@
  auto var8 {123ll}; //long long
  ```
 
- * Here, we take `auto var1` which we initialise with an "integer", so the compiler is going to try & guess the type of this thing and that the type is going to assign to `var1`. This is what `auto` is reaaly use for.
+ * Here, we take `auto var1` which we initialise with an "integer", so the compiler is going to try & guess the type of this thing and that the type is going to assign to `var1`. This is what `auto` is really use for.
  * If we pass `double`, so it will going to deduce a `double` type to that variable. (like `var2`)
  * If we pass character, than it will interpret it as a character (`var5` is deduce as a `char` type).
 
